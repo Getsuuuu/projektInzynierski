@@ -11,7 +11,7 @@ import 'Screens_Admin/scanner.dart';
 import 'Screens_User/menu.dart';
 import 'Screens_User/reserve_screen.dart';
 import 'auth/login.dart';
-import 'auth/register.dart';gi
+import 'auth/register.dart';
 
 
 void main() async {
